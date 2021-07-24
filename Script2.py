@@ -1,4 +1,4 @@
-#Discription: This is demo automation script using function
+#Discription: This is demo automation script using function.
 #Date: 24/07/21
 #Author : Om Deshmukh
 
