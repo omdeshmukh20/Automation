@@ -1,4 +1,4 @@
-#Discription: Taking list of ddemo processes in our lap
+#Discription: Taking list of ddemo processes in our lap.
 #Date: 25/07/21
 #Author : Om Deshmukh
 
