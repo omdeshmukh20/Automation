@@ -7,6 +7,8 @@ Python Automation Scripts :
 This is a script in which I accepted directory name from CLI and travel through all Directories and Sub Directories.
 And from that directories I delete all duplicate files whose Checksum is greater than one, and create one log file which contains 
 list of deleted files which will be sent through GMAIL.
+The first 'SIX' script are of Duplicate File Removing.
+From 'Script1' to 'Script6'.
 
 2) Running Process Identifier : 
 
