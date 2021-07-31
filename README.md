@@ -16,3 +16,5 @@ From 'Script1' to 'Script6'.
 
 In this script I accept directory name to create folder from CLI which generate one log file in it, which holds all informations of current running processes
 in my machine and send it through GMAIL.
+
+The script from 7 to 10 are running process identifier scripts.
